@@ -7,16 +7,16 @@
     "pcm"
   ],
   "version": "0.0.2",
-  "author": "Greg Thornton <xdissent@me.com> (http://xdissent.com)",
+  "author": "Greg Thornton <evandro@me.com> (http://evandro.com)",
   "license": "MIT",
-  "homepage": "https://github.com/xdissent/node-pcm-utils",
+  "homepage": "https://github.com/evandro/node-pcm-utils",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xdissent/node-pcm-utils.git"
+    "url": "https://github.com/evandro/node-pcm-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/xdissent/node-pcm-utils/issues"
+    "url": "https://github.com/evandro/node-pcm-utils/issues"
   },
   "dependencies": {},
   "devDependencies": {
